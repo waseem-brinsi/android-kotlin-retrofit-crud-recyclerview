@@ -7,9 +7,9 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitInstance {
 
-    val baseUrl = "https://gorest.co.in/public/v2/"
+    //val baseUrl = "https://gorest.co.in/public/v2/"
+    val baseUrl = "http://192.168.1.17:8000/api/v1/"
       fun getRetrofit():Retrofit{
-
           val logging = HttpLoggingInterceptor()
           logging.level = (HttpLoggingInterceptor.Level.BODY)
           val client = OkHttpClient.Builder()

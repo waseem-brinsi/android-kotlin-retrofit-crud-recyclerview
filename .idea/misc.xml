@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.12081659973226239" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout-w936dp/activity_login.xml" value="0.141015625" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout/activity_get_users.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout/activity_getall_users.xml" value="0.33" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout/activity_login.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/layout/users_item.xml" value="0.25" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/main/res/xml/network_security_config.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/wetcci/AndroidStudioProjects/android-kotlin-retrofit-crud-recyclerview/app/src/release/res/xml/network_security_config.xml" value="0.23020833333333332" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
